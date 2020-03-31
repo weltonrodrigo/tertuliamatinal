@@ -13,7 +13,7 @@ subtitle: ""
 lang: en-us
 author: Welton Rodrigo
 copyright: "&#xA9; 2015"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/tertuliamatinal" # the subpath of your site, e.g. /blog
 url: "https://weltonrodrigo.github.io/tertuliamatinal/" # the base hostname & protocol for your site
 
 permalink: /:year/:title.html
