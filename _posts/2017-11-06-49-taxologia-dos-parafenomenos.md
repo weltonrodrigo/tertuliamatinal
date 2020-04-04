@@ -22,9 +22,7 @@ keywords: conscienciologia, parafenomenologia
 layout: post
 length: 6530
 origin: https://youtu.be/-wKAeZUVnRA
-summary: 'Pesquisador: Gabriel Gonzalez Maluf
-
-  Especialidade: Parafenomenologia'
+summary: 'Pesquisador: Gabriel Gonzalez Maluf Especialidade: Parafenomenologia'
 title: '#49 - Taxologia dos Parafenomenos'
 voices: Gabriel Gonzalez Maluf
 ---

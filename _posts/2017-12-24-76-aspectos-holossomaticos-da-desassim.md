@@ -22,9 +22,7 @@ keywords: conscienciologia, despertologia
 layout: post
 length: 6530
 origin: https://youtu.be/xEF4-b_Hd1k
-summary: 'Pesquisador: Mário Oliveira
-
-  Especialidade: Despertologia'
+summary: 'Pesquisador: Mário Oliveira Especialidade: Despertologia'
 title: '#76 - Aspectos Holossomáticos da Desassim'
 voices: Mário Oliveira
 ---

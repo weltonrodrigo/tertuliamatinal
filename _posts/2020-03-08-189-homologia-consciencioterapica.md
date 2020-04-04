@@ -24,9 +24,7 @@ keywords: conscienciologia, consciencioterapeuticologia
 layout: post
 length: 6530
 origin: https://youtu.be/_3bw5_ocZ6o
-summary: 'Pesquisador: Ermania Ribeiro
-
-  Especialidade: Consciencioterapeuticologia'
+summary: 'Pesquisador: Ermania Ribeiro Especialidade: Consciencioterapeuticologia'
 title: '#189 - Homologia Consciencioterápica'
 voices: Ermania Ribeiro
 ---

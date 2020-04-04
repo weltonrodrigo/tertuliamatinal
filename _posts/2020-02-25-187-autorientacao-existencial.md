@@ -66,9 +66,7 @@ keywords: conscienciologia, discernimentologia
 layout: post
 length: 6530
 origin: https://youtu.be/TZxW_XXbirQ
-summary: '
-
-  Especialidade: Discernimentologia'
+summary: ' Especialidade: Discernimentologia'
 title: '#187 - Autorientação Existencial'
 voices: null
 ---

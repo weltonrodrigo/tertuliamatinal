@@ -24,9 +24,7 @@ keywords: conscienciologia, autevoluciologia
 layout: post
 length: 6530
 origin: https://youtu.be/iyo2FoqnwPw
-summary: 'Pesquisador: Dulce Daou
-
-  Especialidade: Autevoluciologia'
+summary: 'Pesquisador: Dulce Daou Especialidade: Autevoluciologia'
 title: '#188 - Autoverbetologia'
 voices: Dulce Daou
 ---

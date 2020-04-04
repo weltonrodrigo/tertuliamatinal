@@ -17,9 +17,7 @@ keywords: conscienciologia, autosseriexologia
 layout: post
 length: 6530
 origin: https://youtu.be/BWHoLodAchk
-summary: 'Pesquisador: Alexandre Dung
-
-  Especialidade: Autosseriexologia'
+summary: 'Pesquisador: Alexandre Dung Especialidade: Autosseriexologia'
 title: '#54 - Benefícios da Autoconscientização Seriexológica'
 voices: Alexandre Dung
 ---

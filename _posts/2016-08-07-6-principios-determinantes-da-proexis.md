@@ -17,9 +17,7 @@ keywords: conscienciologia, proexologia
 layout: post
 length: 6530
 origin: https://youtu.be/M42CejlP3Tk
-summary: 'Pesquisador: Laênio Loche
-
-  Especialidade: Proexologia'
+summary: 'Pesquisador: Laênio Loche Especialidade: Proexologia'
 title: '#6 - Princípios Determinantes da Proéxis'
 voices: Laênio Loche
 ---

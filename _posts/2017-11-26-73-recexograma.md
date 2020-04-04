@@ -22,9 +22,7 @@ keywords: conscienciologia, recexologia
 layout: post
 length: 6530
 origin: https://youtu.be/afw8BkvKDZ4
-summary: 'Pesquisador: Luimara Schmit
-
-  Especialidade: Recexologia'
+summary: 'Pesquisador: Luimara Schmit Especialidade: Recexologia'
 title: '#73 - Recexograma'
 voices: Luimara Schmit
 ---

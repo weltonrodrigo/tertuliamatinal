@@ -17,9 +17,7 @@ keywords: conscienciologia, assistenciologia
 layout: post
 length: 6530
 origin: https://youtu.be/8DN3UyfHqjI
-summary: 'Pesquisador: Mário Oliveira
-
-  Especialidade: Assistenciologia'
+summary: 'Pesquisador: Mário Oliveira Especialidade: Assistenciologia'
 title: '#7 - Reconhecimento de Amparadores'
 voices: Mário Oliveira
 ---

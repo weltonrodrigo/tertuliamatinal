@@ -17,9 +17,7 @@ keywords: conscienciologia, serioxemetria
 layout: post
 length: 6530
 origin: https://youtu.be/YNHUStfSns8
-summary: 'Pesquisador: Hernande Leite
-
-  Especialidade: Serioxemetria'
+summary: 'Pesquisador: Hernande Leite Especialidade: Serioxemetria'
 title: '#4 - Serial-Self-Killer'
 voices: Hernande Leite
 ---

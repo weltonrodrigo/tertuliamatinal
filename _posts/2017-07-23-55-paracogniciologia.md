@@ -17,9 +17,7 @@ keywords: conscienciologia, mentalsomatologia
 layout: post
 length: 6530
 origin: https://youtu.be/QZb5VcuWCQw
-summary: 'Pesquisador: Ulisses Scholosser
-
-  Especialidade: Mentalsomatologia'
+summary: 'Pesquisador: Ulisses Scholosser Especialidade: Mentalsomatologia'
 title: '#55 - Paracogniciologia'
 voices: Ulisses Scholosser
 ---

@@ -17,9 +17,7 @@ keywords: conscienciologia, materpensenologia
 layout: post
 length: 6530
 origin: https://youtu.be/8DHLkajG5G0
-summary: 'Pesquisador: Guilherme Kunz
-
-  Especialidade: Materpensenologia'
+summary: 'Pesquisador: Guilherme Kunz Especialidade: Materpensenologia'
 title: '#5 - Materpensene'
 voices: Guilherme Kunz
 ---

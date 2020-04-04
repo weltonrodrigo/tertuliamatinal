@@ -22,9 +22,7 @@ keywords: conscienciologia, interassistenciologia
 layout: post
 length: 6530
 origin: https://youtu.be/SdGA8Tz5WHk
-summary: 'Pesquisador: Adriana Lopes
-
-  Especialidade: Interassistenciologia'
+summary: 'Pesquisador: Adriana Lopes Especialidade: Interassistenciologia'
 title: '#78 - Prova de Gratidão'
 voices: Adriana Lopes
 ---

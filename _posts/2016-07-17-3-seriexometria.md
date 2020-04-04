@@ -21,9 +21,7 @@ keywords: conscienciologia, holobiografologia
 layout: post
 length: 6530
 origin: https://youtu.be/tonNzRpvm8I
-summary: 'Pesquisador: Pedro Fernandes
-
-  Especialidade: Holobiografologia'
+summary: 'Pesquisador: Pedro Fernandes Especialidade: Holobiografologia'
 title: '#3 - Seriexometria'
 voices: Pedro Fernandes
 ---

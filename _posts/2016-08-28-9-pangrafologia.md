@@ -17,9 +17,7 @@ keywords: conscienciologia, grafopensenologia
 layout: post
 length: 6530
 origin: https://youtu.be/gjhHfI6zaq8
-summary: 'Pesquisador: Ernani Brito
-
-  Especialidade: Grafopensenologia'
+summary: 'Pesquisador: Ernani Brito Especialidade: Grafopensenologia'
 title: '#9 - Pangrafologia'
 voices: Ernani Brito
 ---

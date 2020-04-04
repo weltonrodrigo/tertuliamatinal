@@ -17,9 +17,7 @@ keywords: conscienciologia, extraterrestriologia
 layout: post
 length: 6530
 origin: https://youtu.be/UfhbH3NE7Vk
-summary: 'Pesquisador: Jörn Schmidt
-
-  Especialidade: Extraterrestriologia'
+summary: 'Pesquisador: Jörn Schmidt Especialidade: Extraterrestriologia'
 title: '#180 - Do Belicismo à Megafraternidade'
 voices: Jörn Schmidt
 ---

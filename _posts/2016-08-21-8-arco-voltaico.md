@@ -17,9 +17,7 @@ keywords: conscienciologia, consciencioterapia
 layout: post
 length: 6530
 origin: https://youtu.be/dT0vIikqsmo
-summary: 'Pesquisador: Leonardo Firmato
-
-  Especialidade: Consciencioterapia'
+summary: 'Pesquisador: Leonardo Firmato Especialidade: Consciencioterapia'
 title: '#8 - Arco Voltaico'
 voices: Leonardo Firmato
 ---

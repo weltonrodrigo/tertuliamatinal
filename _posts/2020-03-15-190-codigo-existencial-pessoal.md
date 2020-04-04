@@ -24,9 +24,7 @@ keywords: conscienciologia, autodeontologia
 layout: post
 length: 6530
 origin: https://youtu.be/Hg9h6sebNAk
-summary: 'Pesquisador: Cesar Cordiolli
-
-  Especialidade: Autodeontologia'
+summary: 'Pesquisador: Cesar Cordiolli Especialidade: Autodeontologia'
 title: '#190 - Código Existencial Pessoal'
 voices: Cesar Cordiolli
 ---

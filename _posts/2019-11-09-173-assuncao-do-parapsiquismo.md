@@ -17,9 +17,7 @@ keywords: conscienciologia, evoluciologia
 layout: post
 length: 6530
 origin: https://youtu.be/7ANm5t9qcg0
-summary: 'Pesquisador: Alexandre Nonato
-
-  Especialidade: Evoluciologia'
+summary: 'Pesquisador: Alexandre Nonato Especialidade: Evoluciologia'
 title: '#173 - Assunção do Parapsiquismo'
 voices: Alexandre Nonato
 ---
