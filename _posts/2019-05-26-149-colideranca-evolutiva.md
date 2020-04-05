@@ -1,11 +1,11 @@
 ---
 author: Simone Zolet
 block: 'no'
-date: 2018-05-26 09:00:00 -0306
+date: 2019-05-26 09:00:00 -0306
 description: 'Pesquisadora: Simone Zolet
 
 
-  Debate realizado em 26/05/2018
+  Debate realizado em 26/05/2019
 
 
   Tertúlia Matinal é a reunião aberta onde os pesquisadores da Conscienciologia apresentam
