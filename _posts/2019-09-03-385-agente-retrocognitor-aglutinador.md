@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 385 - Agente Retrocognitor Aglutinador\n\
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/4dZBhFwqxM4.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/4dZBhFwqxM4.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

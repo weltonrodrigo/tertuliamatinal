@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 379 - Corredor Heurístico\n\nhttps://you
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/LcmokSEarc0.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/LcmokSEarc0.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

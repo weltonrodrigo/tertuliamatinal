@@ -62,7 +62,7 @@ description: "O que é a Conscienciologia proposta por Waldo Vieira?\n\nPrincíp
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/cQ0hnv1Asl4.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/cQ0hnv1Asl4.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

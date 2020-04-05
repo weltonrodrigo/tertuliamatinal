@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 384 - Paratecnologias Interassistenciais\
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/d87rL3DbhbY.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/d87rL3DbhbY.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

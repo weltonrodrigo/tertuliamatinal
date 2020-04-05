@@ -64,7 +64,7 @@ description: "Léxico de Ortopensatas Ampliado \nLançamento da 2ª edição Rev
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/9Te7qpQ0I8k.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/9Te7qpQ0I8k.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

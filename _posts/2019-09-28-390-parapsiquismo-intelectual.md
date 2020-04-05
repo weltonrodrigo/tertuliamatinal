@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 390 - Parapsiquismo Intelectual\n\nhttps:
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/YKnL2m5ojg4.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/YKnL2m5ojg4.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

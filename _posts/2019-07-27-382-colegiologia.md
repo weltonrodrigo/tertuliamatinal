@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 382 - Colegiologia\n\nhttps://youtu.be/AR
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/AR6YrZgIjqY.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/AR6YrZgIjqY.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

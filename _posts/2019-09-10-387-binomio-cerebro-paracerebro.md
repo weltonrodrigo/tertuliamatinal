@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 387 - Binômio Cérebro-Paracérebro\n\nh
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/BLtU4y_vvtM.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/BLtU4y_vvtM.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

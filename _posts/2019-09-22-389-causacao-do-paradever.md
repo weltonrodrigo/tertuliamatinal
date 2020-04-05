@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 389 - Causação do Paradever\n\nhttps://
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/zspzrU6a3Us.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/zspzrU6a3Us.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

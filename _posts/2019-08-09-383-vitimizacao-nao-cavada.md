@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 383 - Vitimização Não Cavada\n\nhttps:
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/NabchWpy6-E.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/NabchWpy6-E.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 394 - Automegafraternologia\n\nhttps://yo
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/uD9E6eUyZCo.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/uD9E6eUyZCo.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

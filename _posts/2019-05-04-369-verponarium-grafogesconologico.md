@@ -7,7 +7,7 @@ description: Verponarium Grafogesconológico – Lançamento do Livro Círculo M
   volume I,  de Carmen Freire, Nazaré Almeida e Rosemary Salles.
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/PHY8WoJzwio.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/PHY8WoJzwio.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

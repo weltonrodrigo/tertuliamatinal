@@ -63,7 +63,7 @@ description: "Material: https://bit.ly/39Gs3wf\nO que é a Conscienciologia prop
   \ concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/H0WYdthuFyg.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/H0WYdthuFyg.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

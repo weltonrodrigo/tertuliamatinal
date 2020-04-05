@@ -63,7 +63,7 @@ description: "O que é a Conscienciologia proposta por Waldo Vieira?\n\nPrincíp
   #FicaEmCasa"
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/6iCFjr4YtyU.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/6iCFjr4YtyU.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

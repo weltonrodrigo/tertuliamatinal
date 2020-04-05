@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 377 - Pesquisador Independente da Conscie
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/CV6QOmelW_E.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/CV6QOmelW_E.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

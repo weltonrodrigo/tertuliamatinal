@@ -63,7 +63,7 @@ description: "Círculo Mentalsomático 388 -  Neoverpons da Consciencioterapia\n
   \ e Megacentro Cultural Holoteca, projeto concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/qC5O9GmPUWc.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/qC5O9GmPUWc.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

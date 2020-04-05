@@ -65,7 +65,7 @@ description: "Para baixar o texto acesse o site do Tertuliarium ou use o link ab
   \ concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/T3Ceyjxxe7g.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/T3Ceyjxxe7g.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

@@ -62,7 +62,7 @@ description: "O que é a Conscienciologia proposta por Waldo Vieira?\n\nPrincíp
   \ concebido por Oscar Niemeyer."
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/wCzgz326u8c.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/wCzgz326u8c.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

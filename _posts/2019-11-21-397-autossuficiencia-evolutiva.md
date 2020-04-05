@@ -6,7 +6,7 @@ date: 2019-11-21 17:16:51 -0200
 description: Círculo Mentalsomático 397 - Autossuficiência Evolutiva
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/DM8jFsD4xeA.m4a
+file: https://tertuliamatinal.s3.amazonaws.com/audios/DM8jFsD4xeA.mp3
 keywords: conscienciologia
 layout: post
 length: 6530
