@@ -16,6 +16,10 @@ copyright: "&#xA9; 2015"
 baseurl: "/tertuliamatinal" # the subpath of your site, e.g. /blog
 url: "https://weltonrodrigo.github.io/" # the base hostname & protocol for your site
 
+collections:
+  category:
+    output: true
+
 permalink: /:year/:title.html
 
 #Timezone
