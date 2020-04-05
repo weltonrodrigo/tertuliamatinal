@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: César Cordioli
 block: 'no'
 date: 2019-07-06 09:00:00 -0306

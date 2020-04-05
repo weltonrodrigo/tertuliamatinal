@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Eduardo Azevedo
 block: 'no'
 date: 2019-11-24 09:00:00 -0306

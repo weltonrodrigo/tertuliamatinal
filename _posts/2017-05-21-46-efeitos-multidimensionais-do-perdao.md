@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Mário Oliveira
 block: 'no'
 date: 2017-05-21 09:00:00 -0306

@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Cesar Cordiolli
 block: 'no'
 date: 2020-03-15 09:00:00 -0306

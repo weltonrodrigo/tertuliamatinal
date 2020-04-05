@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Roberto Leimig
 block: 'no'
 date: 2016-11-13 09:00:00 -0306

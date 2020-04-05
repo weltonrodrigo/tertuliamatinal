@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Márcia Ramm
 block: 'no'
 date: 2019-08-04 09:00:00 -0306

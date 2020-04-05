@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Cesar Cordioli
 block: 'no'
 date: 2017-02-19 09:00:00 -0306

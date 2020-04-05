@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Marco Almeida
 block: 'no'
 date: 2017-02-05 09:00:00 -0306

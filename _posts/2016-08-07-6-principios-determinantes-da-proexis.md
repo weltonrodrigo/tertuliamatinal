@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Laênio Loche
 block: 'no'
 date: 2016-08-07 09:00:00 -0306

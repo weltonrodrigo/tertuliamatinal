@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Alexandre Dung
 block: 'no'
 date: 2019-05-12 09:00:00 -0306

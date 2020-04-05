@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Jarbas Paranhos
 block: 'no'
 date: 2017-09-24 09:00:00 -0306

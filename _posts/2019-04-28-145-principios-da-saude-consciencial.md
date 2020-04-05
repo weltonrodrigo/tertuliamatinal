@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Fernanda Cabral  Schveitzer
 block: 'no'
 date: 2019-04-28 09:00:00 -0306

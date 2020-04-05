@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Djalma Fonseca
 block: 'no'
 date: 2017-07-09 09:00:00 -0306

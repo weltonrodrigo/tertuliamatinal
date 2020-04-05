@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Marina Thomaz
 block: 'no'
 date: 2016-10-23 09:00:00 -0306

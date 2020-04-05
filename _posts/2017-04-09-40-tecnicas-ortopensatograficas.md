@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Rosemary Salles
 block: 'no'
 date: 2017-04-09 09:00:00 -0306

@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Pedro Fernandes
 block: 'no'
 date: 2019-12-22 09:00:00 -0306

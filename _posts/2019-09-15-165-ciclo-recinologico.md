@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Flávio Buononato
 block: 'no'
 date: 2019-09-15 09:00:00 -0306

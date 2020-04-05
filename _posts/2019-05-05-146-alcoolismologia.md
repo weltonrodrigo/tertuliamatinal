@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Bruno Bueno
 block: 'no'
 date: 2019-05-05 09:00:00 -0306

@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Alexandre Zaslavsky
 block: 'no'
 date: 2016-07-03 09:00:00 -0306

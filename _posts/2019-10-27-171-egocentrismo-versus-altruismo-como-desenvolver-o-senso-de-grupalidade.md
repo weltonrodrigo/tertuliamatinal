@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Eduardo Martins
 block: 'no'
 date: 2019-10-27 09:00:00 -0306

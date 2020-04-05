@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Ernani Brito
 block: 'no'
 date: 2016-08-28 09:00:00 -0306

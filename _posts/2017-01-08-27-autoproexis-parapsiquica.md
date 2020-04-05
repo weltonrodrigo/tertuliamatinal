@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Wildenilson Sinhorini
 block: 'no'
 date: 2017-01-08 09:00:00 -0306

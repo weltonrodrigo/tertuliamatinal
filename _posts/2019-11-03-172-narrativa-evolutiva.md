@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Laênio Loche
 block: 'no'
 date: 2019-11-03 09:00:00 -0306

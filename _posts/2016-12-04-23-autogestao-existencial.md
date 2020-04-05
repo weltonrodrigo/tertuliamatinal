@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Caio Polizel
 block: 'no'
 date: 2016-12-04 09:00:00 -0306

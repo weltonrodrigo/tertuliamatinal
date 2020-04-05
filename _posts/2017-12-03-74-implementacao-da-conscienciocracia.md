@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Luciano Mello
 block: 'no'
 date: 2017-12-03 09:00:00 -0306

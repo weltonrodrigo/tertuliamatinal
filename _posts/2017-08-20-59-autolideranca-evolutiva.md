@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Simone Zolet
 block: 'no'
 date: 2017-08-20 09:00:00 -0306

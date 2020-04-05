@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Patrícia Pialarissi
 block: 'no'
 date: 2017-01-22 09:00:00 -0306

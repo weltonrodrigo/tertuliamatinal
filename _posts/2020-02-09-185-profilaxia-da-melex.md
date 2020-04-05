@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: André Shataloff
 block: 'no'
 date: 2020-02-09 09:00:00 -0306

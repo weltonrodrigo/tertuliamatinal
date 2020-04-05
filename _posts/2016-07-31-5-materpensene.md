@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Guilherme Kunz
 block: 'no'
 date: 2016-07-31 09:00:00 -0306

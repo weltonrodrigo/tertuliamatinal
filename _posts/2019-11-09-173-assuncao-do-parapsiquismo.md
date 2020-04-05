@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Alexandre Nonato
 block: 'no'
 date: 2019-11-09 09:00:00 -0306

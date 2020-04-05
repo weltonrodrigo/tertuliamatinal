@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Luiz Gonçalves
 block: 'no'
 date: 2017-12-12 09:00:00 -0306

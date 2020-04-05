@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Nilse Oliveira
 block: 'no'
 date: 2019-09-01 09:00:00 -0306

@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Marco Almeida
 block: 'no'
 date: 2019-11-17 09:00:00 -0306

@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Mário Oliveira
 block: 'no'
 date: 2019-08-18 09:00:00 -0306

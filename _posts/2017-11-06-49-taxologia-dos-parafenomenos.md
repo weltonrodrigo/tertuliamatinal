@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Gabriel Gonzalez Maluf
 block: 'no'
 date: 2017-11-06 09:00:00 -0306

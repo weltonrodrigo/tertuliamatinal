@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Simone Zolet
 block: 'no'
 date: 2019-05-26 09:00:00 -0306

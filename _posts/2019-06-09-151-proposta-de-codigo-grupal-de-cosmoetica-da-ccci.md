@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Everaldo Bergonzini
 block: 'no'
 date: 2019-06-09 09:00:00 -0306

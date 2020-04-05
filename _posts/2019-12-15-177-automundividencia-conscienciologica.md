@@ -1,4 +1,5 @@
 ---
+categories: tertuliamatinal
 author: Adriana Lopes
 block: 'no'
 date: 2019-12-15 09:00:00 -0306
