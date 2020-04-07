@@ -17,7 +17,7 @@ description: 'Tertúlia Matinal 147 - Doença Mental: Vivências de um Intermiss
   09h às 10h45, no auditório do Tertuliarium.'
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/lJ0oYZ410G4.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/lJ0oYZ410G4.m4a
 keywords: conscienciologia
 layout: post
 length: 6530

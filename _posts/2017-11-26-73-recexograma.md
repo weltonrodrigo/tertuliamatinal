@@ -18,7 +18,7 @@ description: 'Pesquisadora: Luimara Schmit
   os temas discutidos.'
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/afw8BkvKDZ4.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/afw8BkvKDZ4.m4a
 keywords: conscienciologia, recexologia
 layout: post
 length: 6530

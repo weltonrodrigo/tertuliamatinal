@@ -18,7 +18,7 @@ description: 'Pesquisador: Mário Oliveira
   os temas discutidos.'
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/xEF4-b_Hd1k.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/xEF4-b_Hd1k.m4a
 keywords: conscienciologia, despertologia
 layout: post
 length: 6530

@@ -20,7 +20,7 @@ description: 'Pesquisador: Cesar Cordiolli
   os temas discutidos.'
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/Hg9h6sebNAk.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/Hg9h6sebNAk.m4a
 keywords: conscienciologia, autodeontologia
 layout: post
 length: 6530

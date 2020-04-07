@@ -18,7 +18,7 @@ description: 'Pesquisador: Jarbas Paranhos
   os temas discutidos.'
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/1KtcU1FuL0U.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/1KtcU1FuL0U.m4a
 keywords: conscienciologia
 layout: post
 length: 6530

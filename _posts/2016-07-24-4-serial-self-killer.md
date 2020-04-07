@@ -13,7 +13,7 @@ description: 'Pesquisador: Hernande Leite
   09h às 10h45, no auditório do Tertuliarium.'
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/YNHUStfSns8.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/YNHUStfSns8.m4a
 keywords: conscienciologia, serioxemetria
 layout: post
 length: 6530

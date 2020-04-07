@@ -13,7 +13,7 @@ description: 'Pesquisadora: Adriana Lopes
   09h às 10h45, no auditório do Tertuliarium.'
 duration: 01:48:50
 explicit: 'no'
-file: https://tertuliamatinal.s3.amazonaws.com/audios/1cc1RaYjA2E.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/1cc1RaYjA2E.m4a
 keywords: conscienciologia
 layout: post
 length: 6530
