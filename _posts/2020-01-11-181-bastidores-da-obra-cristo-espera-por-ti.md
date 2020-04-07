@@ -13,7 +13,7 @@ description: 'Pesquisadora: Málu Balona
   09h às 10h45, no auditório do Tertuliarium'
 duration: 01:48:50
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/Hihztuz8LE4.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/Hihztuz8LE4.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

@@ -18,7 +18,7 @@ description: 'Pesquisador: Luciano Mello
   os temas discutidos.'
 duration: 01:48:50
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/LfHXg06KHVY.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/LfHXg06KHVY.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

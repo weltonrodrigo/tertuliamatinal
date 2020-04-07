@@ -20,7 +20,7 @@ description: 'Pesquisadora: Ermania Ribeiro
   os temas discutidos.'
 duration: 01:48:50
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/_3bw5_ocZ6o.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/_3bw5_ocZ6o.mp3
 keywords: conscienciologia, consciencioterapeuticologia
 layout: post
 length: 6530

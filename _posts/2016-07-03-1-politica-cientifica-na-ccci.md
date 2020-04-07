@@ -17,7 +17,7 @@ description: 'Tertúlia Matinal 1 - Politica Cientifica na CCCI
   09h às 10h45, no auditório do Tertuliarium.'
 duration: 01:48:50
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/DFQvsZ-l3mc.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/DFQvsZ-l3mc.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

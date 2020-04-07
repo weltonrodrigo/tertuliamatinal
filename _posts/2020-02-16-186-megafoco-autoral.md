@@ -18,7 +18,7 @@ description: 'Pesquisadora: Sandra Tornieri
   os temas discutidos.'
 duration: 01:48:50
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/v427B1xqqlg.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/v427B1xqqlg.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

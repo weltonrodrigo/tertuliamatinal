@@ -13,7 +13,7 @@ description: 'Pesquisador: Ulisses Scholosser
   09h às 10h45, no auditório do Tertuliarium'
 duration: 01:48:50
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/QZb5VcuWCQw.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/QZb5VcuWCQw.mp3
 keywords: conscienciologia, mentalsomatologia
 layout: post
 length: 6530

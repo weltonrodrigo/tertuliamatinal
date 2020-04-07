@@ -18,7 +18,7 @@ description: 'Pesquisador: Gabriel Gonzalez Maluf
   os temas discutidos.'
 duration: 01:48:50
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/-wKAeZUVnRA.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/-wKAeZUVnRA.mp3
 keywords: conscienciologia, parafenomenologia
 layout: post
 length: 6530

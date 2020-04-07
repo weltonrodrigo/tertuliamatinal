@@ -20,7 +20,7 @@ description: 'Pesquisadora: Dulce Daou
   os temas discutidos.'
 duration: 01:48:50
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/iyo2FoqnwPw.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/iyo2FoqnwPw.mp3
 keywords: conscienciologia, autevoluciologia
 layout: post
 length: 6530

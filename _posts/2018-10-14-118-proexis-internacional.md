@@ -9,7 +9,7 @@ description: "Pesquisadora: Virginia Ruiz \nDebate realizado em 14.10.2018\n\nTe
   \ 09h às 10h45, no auditório do Tertuliarium."
 duration: 01:48:50
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/nB_74xjAb_E.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/nB_74xjAb_E.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

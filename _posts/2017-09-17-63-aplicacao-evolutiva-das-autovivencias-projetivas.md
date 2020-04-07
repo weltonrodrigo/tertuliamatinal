@@ -11,7 +11,7 @@ description: "Pesquisadora: Tatiana Lopes \nDebate realizado em 17.09.2017\n\nTe
   \ oficial do CEAEC ou da Conscienciologia sobre os temas discutidos."
 duration: 01:48:50
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/Eu4GvOZtlCA.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/Eu4GvOZtlCA.mp3
 keywords: conscienciologia
 layout: post
 length: 6530

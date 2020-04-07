@@ -9,7 +9,7 @@ description: "Pesquisador: Ana Seno\nDebate realizado em 19/03/2017\n\nTertúlia
   \ do Tertuliarium"
 duration: 01:55:03
 explicit: 'no'
-file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/yILuFNv5j6I.m4a
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/yILuFNv5j6I.mp3
 keywords: conscienciologia
 layout: post
 length: 6903
