@@ -33,9 +33,10 @@ keywords: conscienciologia
 layout: post
 length: 6429
 origin: https://youtu.be/LK4_1PD9zDc
-title: '#418 - Autorrefratariologia
+title: '#418 - Autorrefratariologia'
 voices: Tertuliarium
 ---
+
 Conteúdo original disponível no site <http://www.tertuliaconscienciologia.org>
 
 Material: <https://bit.ly/2xyl7UQ>
