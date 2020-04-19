@@ -13,7 +13,7 @@
 		<itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
         <itunes:author>{{ site.author }}</itunes:author>
 		<itunes:summary>Círculo Mentalsomático em Podcast.</itunes:summary>
-        <description>Feito para o meu consumo pessoal. Todos os direitos pertencem ao CEAEC.</description>
+        <description>Feito para o meu consumo pessoal. Todos os direitos pertencem ao CEAEC. Áudios dos encontros do círculo mentalsomático, atividade da conscienciologia realizada no CEAEC.</description>
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
         <itunes:owner>
 			<itunes:name>{{ site.author }}</itunes:name>
