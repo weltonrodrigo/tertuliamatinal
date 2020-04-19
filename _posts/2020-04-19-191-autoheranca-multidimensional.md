@@ -27,23 +27,23 @@ Material: <https://bit.ly/2VjU20L>
 A importância das experiências adquiridas ao longo das vidas sucessivas no processo da evolução consciencial.
 
 ## Objetivos
-• Informar a importância das experiências das vidas passadas.
-• Reconhecer o patrimônio consciencial multiexistencial.
-• Evidenciar os efeitos das vidas passadas na atual existência.
-• Observar tendências e talentos inatos.
-• Avaliar as marcas de nascença.
-• Expor os facilitadores e inibidores das retrocogniçôes.
-• Aplicar a bagagem multiexistencial na assistência.
-• Tirar proveito dessas informações na atual Vida.
+* Informar a importância das experiências das vidas passadas.
+* Reconhecer o patrimônio consciencial multiexistencial.
+* Evidenciar os efeitos das vidas passadas na atual existência.
+* Observar tendências e talentos inatos.
+* Avaliar as marcas de nascença.
+* Expor os facilitadores e inibidores das retrocogniçôes.
+* Aplicar a bagagem multiexistencial na assistência.
+* Tirar proveito dessas informações na atual Vida.
 
 ## Tópicos Principais
-• Paradigma consciencial.
-• Vidas Sucessivas.
-• Programação Existencial.
-• Holomemória — Memória Integral.
-• Paragenética. Herança de si mesmo.
-• Marcas de Nascença.
-• Superdotação — Altas Habilidades
-• Precocidade Parapsíquica.
-• Retrocognição — Lembranças do Passado.
+* Paradigma consciencial.
+* Vidas Sucessivas.
+* Programação Existencial.
+* Holomemória — Memória Integral.
+* Paragenética. Herança de si mesmo.
+* Marcas de Nascença.
+* Superdotação — Altas Habilidades
+* Precocidade Parapsíquica.
+* Retrocognição — Lembranças do Passado.
   
