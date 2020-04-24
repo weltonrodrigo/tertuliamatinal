@@ -1,9 +1,9 @@
 ---
 categories: tertuliamatinal
-author: ' Pedro Fernandes'
+author: Pedro Fernandes
 block: 'no'
 date: 2019-10-06 09:00:00 -0306
-description: 'Pesquisador:  Pedro Fernandes
+description: 'Pesquisador: Pedro Fernandes
 
   Debate realizado em 06.10.2019
 
@@ -14,11 +14,11 @@ description: 'Pesquisador:  Pedro Fernandes
 duration: 01:48:50
 explicit: 'no'
 file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/kZNg20hONm4.mp3
-keywords: conscienciologia
+keywords: conscienciologia, evoluciologia 
 layout: post
 length: 6530
 origin: https://youtu.be/kZNg20hONm4
-summary: 'Pesquisador:  Pedro Fernandes'
+summary: 'Pesquisador: Pedro Fernandes Especialidade: Evoluciologia'
 title: '#168 - Busca Grupocármica Ativa'
-voices: ' Pedro Fernandes'
+voices: 'Pedro Fernandes'
 ---

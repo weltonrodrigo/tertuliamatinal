@@ -1,6 +1,6 @@
 ---
 categories: tertuliamatinal
-author: null
+author: Adriana Lopes
 block: 'no'
 date: 2020-02-25 17:12:58 -0300
 description: "O que é a Conscienciologia proposta por Waldo Vieira?\n\nPrincípios\
@@ -67,7 +67,7 @@ keywords: conscienciologia, discernimentologia
 layout: post
 length: 6530
 origin: https://youtu.be/TZxW_XXbirQ
-summary: ' Especialidade: Discernimentologia'
+summary: 'Pesquisadora Adriana Lopes Especialidade: Discernimentologia'
 title: '#187 - Autorientação Existencial'
-voices: null
+voices: Adriana Lopes
 ---
