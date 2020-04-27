@@ -8,7 +8,7 @@ description: 'Pesquisadora: Patrícia Pialarissi
   Material: https://bit.ly/2VjU20L'
 duration: 01:46:58
 explicit: 'no'
-file: https://api.backblazeb2.com/conscienciologiapodcast/audios/circulo-zizVMQeCBl0.mp3
+file: https://f001.backblazeb2.com/file/conscienciologiapodcast/audios/tertuliamatinal-zizVMQeCBl0.mp3
 keywords: conscienciologia, autexperimentologia
 layout: post
 length: 6418
