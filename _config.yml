@@ -37,5 +37,5 @@ exclude: ['readme.md', 'Gemfile.lock', 'Gemfile']
 plugins: 
   - jekyll-redirect-from
   
- whitelist:
+whitelist:
   - jekyll-redirect-from
