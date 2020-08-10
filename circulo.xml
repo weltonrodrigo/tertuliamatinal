@@ -17,7 +17,7 @@
 		<webMaster>{{ site.email }} ({{ site.author }})</webMaster>
         <itunes:owner>
 			<itunes:name>{{ site.author }}</itunes:name>
-			<itunes:email>{{ site.email }}</itunes:email>
+			<itunes:email>rodrigo+circulomentalsomatico@familianascimento.org</itunes:email>
 		</itunes:owner>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/images/circulo-itunes.png" />
 		<itunes:category text="Technology" />
